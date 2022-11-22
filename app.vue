@@ -1,10 +1,10 @@
-<script setup>
-const foo = useFoo()
+<script async setup>
+
+
 </script>
 
 <template lang="pug">
   NuxtLayout
     nuxt-page
-    | {{ foo }}
 </template>
 
